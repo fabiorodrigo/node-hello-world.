@@ -1,0 +1,5 @@
+<testsuites name="Mocha Unit Tests">
+<testsuite name="My test suite" tests="1" failures="0" skipped="0" timestamp="Mon, 21 Oct 2019 23:58:16 GMT" time="0.004">
+<testcase classname="My test suite" name="Test case" time="0.001"/>
+</testsuite>
+</testsuites>

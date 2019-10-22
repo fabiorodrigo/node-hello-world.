@@ -9,11 +9,11 @@
 		"express": "4.13.x",
 		"cfenv": "1.0.x",
 		"chai": "^3.3.0",
-    "gulp": "^3.9.0",
-    "gulp-mocha": "^3.0.1",
-    "mocha": "^2.3.3",
-    "mocha-jenkins-reporter": "^0.1.9",
-    "rewire": "^2.3.4"
+		"gulp": "^3.9.0",
+		"gulp-mocha": "^3.0.1",
+		"mocha": "^2.3.3",
+		"mocha-jenkins-reporter": "^0.1.9",
+		"rewire": "^2.3.4"
 	},
 	"repository": {},
 	"engines": {
